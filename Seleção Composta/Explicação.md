@@ -1,0 +1,1 @@
+Na estrutura de seleção composta existem dois caminhos diferentes predeterminados. Dessa maneira, haverá a execução de um comando ou grupo de comandos caso o resultado da condição seja verdadeiro, OU a execução de outro comando ou grupo de comandos diferente caso o resultado da condição seja falso.
